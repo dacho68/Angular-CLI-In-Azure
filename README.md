@@ -1,7 +1,12 @@
-# UsingGit
+# Setup Angular CLI with Git
 
+## Create Angular 2 with  CLI
 
- ## Create New Git repos
+- npm i -g @angular/cli
+- ng new myApp
+- cd myApp
+- ng server
+## Create New Git repos
 - Goto the new project folder
 - git init
 - git add .
